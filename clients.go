@@ -1,7 +1,7 @@
 package clients
 
-type Clients struct {
-	CPF  string
+type Titular struct {
+	CPF  int
 	Name string
 	
 }
