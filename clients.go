@@ -1,6 +1,7 @@
 package clients
 
 type Clients struct {
-	CPF  int
+	CPF  string
 	Name string
+	
 }
